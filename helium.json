@@ -7,7 +7,7 @@
         "name": "zeppelin-que-spell",
         "version": "0.0.1",
         "published": "2022-02-28T04:57:05.463Z",
-        "artifact" : "/Users/savan.karathiya/workspace/zeppelin-config/helium.json",
+        "artifact" : "/Users/savan.karathiya/workspace/zeppelin-0.10.0-bin-all/spells/zepplin-que-spell",
         "author": "Kishor Rathva",
         "description" : "Return just what receive (example)",
         "license": "MIT",
